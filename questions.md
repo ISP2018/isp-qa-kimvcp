@@ -1,18 +1,23 @@
 # Questions
 
-### Q1: According to the Practice of Agile Developer(PAD), which are tips for making you and your team work efficiently and also give reason why? (give the number and title of the tips)
+**Q1:** According to the Practice of Agile Developer(PAD), which are tips for making you and your team work efficiently and also give reason why? (give the number and title of the tips)
 
-### Q2: What are the efficient ways for handling errors?
+**Q2:**  What are the efficient ways for handling errors?
 
-### Q3: How to write efficient "unit tests" in our program?
+**Q3:**  Which is not the laws of test driven development(TDD)?
 
-### Q4:
+- [ ] You may not write more production code than is sufficient to pass the currently failing test.
+- [ ] You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
+- [ ] Open a pull request
+- [ ] You may not write production code until you have written a failing unit test.
+	
+**Q4:** 
 
-### Q5:
+**Q5:** 
 
 # Answers
 
-### A1:
+**A1:**
 
  There are many tips that helps.
 
@@ -31,7 +36,7 @@
 45. Keep others informed.
 	- Don’t wait for others to ask you the status of your work because it is wasting time.
 
-### A2:
+**A2:**
 
 There are many ways for handling errors.
 
@@ -54,17 +59,18 @@ unadorned algorithm
  * Don't return or pass null
  	- Returning null from methods is bad, but passing null into methods is worse. Code with the knowledge that a null in an argument list is an indication of a problem, and end up with far fewer careless mistakes.
  	
- 	(Ref: clean code book)
+(Ref: clean code book)
 
-### A3:
+**A3:**
 
-&nbsp;&nbsp;&nbsp;&nbsp; Unit tests were short bits of throw away code that we wrote to make sure our programs worked. It help the developer to verify that the logic of a piece of the program is correct. Having a high test coverage of your code allows you to continue developing features without having to perform lots of manual tests.
-   
-   * test coverage = the percentage of code which is tested by unit tests
-   
-   (Ref: [Unit test](http://www.vogella.com/tutorials/JUnit/article.html#junit_testfixture))
+- [ ] You may not write more production code than is sufficient to pass the currently failing test.
+- [ ] You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
+- [x] You may not write unit test until you finish all of your code.
+- [ ] You may not write production code until you have written a failing unit test.
 
-### A4:
+(Ref: clean code book)
+
+**A4:**
 
 
-### A5:
+**A5:**
