@@ -1,32 +1,18 @@
-# 1) According to the PADs, which are tips for making you and your team work efficiently and also explain why?
+# 1) According to the PADs, which are tips for making you and your team work efficiently and also give reason why?
 
 38. Use stand-up meetings.
-	- something
+	- You get a good sense of what everyone else is working on and can bring problems out into the open easily.
  	
 41. Be a mentor.
+	- You motivate others to achieve better results. You improve the overall competence of your team.
 
 42. Give others a chance to solve problems.
+	- Pointing them in the right direction instead of handing them solutions will help your team to be able to learn and understand the code better.
  
 43. Share code only when ready.
+	- As soon as you check-in your code, it is publicly available. Your team can get confused if your code is not ready. 
  
 45. Keep others informed.
+	- Don’t wait for others to ask you the status of your work because it is wasting time.
 
-# 2) What is the efficient ways for handling errors? (answer is in clean code book)
 
- - Use Exceptions Rather Than Return Codes
- 
- - Write Your Try-Catch-Finally Statement First
- 
- - Use Unchecked Exceptions and also provide context with the exception
- 
- - Define Exception Classes in Terms of a Caller’s Needs
- 
- - Define the Normal Flow
- 
- - Don't return or pass null
-
-# 3) What is the reason for writing the "unit tests" in our program?
-
-   Unit tests were short bits of throw away code that we wrote to make sure our programs worked. It would involve some kind of simple driver program that would allow us to manually interact with the program we had written.
-
-# 4)  
