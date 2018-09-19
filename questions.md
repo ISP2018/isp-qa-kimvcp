@@ -1,18 +1,18 @@
-#Questions
+# Questions
 
-## Q1: According to the Practice of Agile Developer(PAD), which are tips for making you and your team work efficiently and also give reason why? (give the number and title of the tips)
+### Q1: According to the Practice of Agile Developer(PAD), which are tips for making you and your team work efficiently and also give reason why? (give the number and title of the tips)
 
-## Q2: What are the efficient ways for handling errors?
+### Q2: What are the efficient ways for handling errors?
 
-## Q3: How to write efficient "unit tests" in our program?
+### Q3: How to write efficient "unit tests" in our program?
 
-## Q4:
+### Q4:
 
-## Q5:
+### Q5:
 
-#Answers
+# Answers
 
-## A1:
+### A1:
 
  There are many tips that helps.
 
@@ -31,7 +31,7 @@
 45. Keep others informed.
 	- Don’t wait for others to ask you the status of your work because it is wasting time.
 
-## A2:
+### A2:
 
 There are many ways for handling errors.
 
@@ -56,7 +56,7 @@ unadorned algorithm
  	
  	(Ref: clean code book)
 
-## A3:
+### A3:
 
 &nbsp;&nbsp;&nbsp;&nbsp; Unit tests were short bits of throw away code that we wrote to make sure our programs worked. It help the developer to verify that the logic of a piece of the program is correct. Having a high test coverage of your code allows you to continue developing features without having to perform lots of manual tests.
    
@@ -64,7 +64,7 @@ unadorned algorithm
    
    (Ref: [Unit test](http://www.vogella.com/tutorials/JUnit/article.html#junit_testfixture))
 
-## A4:
+### A4:
 
 
-## A5:
+### A5:
