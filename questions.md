@@ -1,19 +1,21 @@
 # Questions
 
-**Q1:** According to the Practice of Agile Developer(PAD), which are tips for making you and your team work efficiently and also give reason why? (give the number and title of the tips)
+**Q1:** According to the Practice of Agile Developer ([PAD](https://media.pragprog.com/titles/pad/PAD-pulloutcard.pdf)), which are tips for making you and your team work efficiently and also give reason why? (include the number and title of the tips)
 
-**Q2:**  What are the efficient ways for handling errors?
+**Q2:** What are the efficient ways for handling errors?
 
-**Q3:**  Which is not the laws of test driven development(TDD)?
+**Q3:** Which is not the laws of *Test Driven Development(TDD)*?
 
 - [ ] You may not write more production code than is sufficient to pass the currently failing test.
 - [ ] You may not write more of a unit test than is sufficient to fail, and not compiling is failing.
-- [ ] Open a pull request
+- [ ] You may not write unit test until you finish all of your code.
 - [ ] You may not write production code until you have written a failing unit test.
 	
-**Q4:** 
+**Q4:** According to 7 Habits of Highly Effective Programmers, what is the meaning of "For developers, ego is the worst enemy."?  
 
-**Q5:** 
+**Q5:** If you are new to software development, whether starting as a professional or even just learning as a student, you probably find the culture intimidating. What is the key to become a great software developer?
+
+*** 
 
 # Answers
 
@@ -59,7 +61,7 @@ unadorned algorithm
  * Don't return or pass null
  	- Returning null from methods is bad, but passing null into methods is worse. Code with the knowledge that a null in an argument list is an indication of a problem, and end up with far fewer careless mistakes.
  	
-(Ref: clean code book)
+(Ref: Clean Code book)
 
 **A3:**
 
@@ -68,9 +70,16 @@ unadorned algorithm
 - [x] You may not write unit test until you finish all of your code.
 - [ ] You may not write production code until you have written a failing unit test.
 
-(Ref: clean code book)
+(Ref: Clean Code book)
 
 **A4:**
 
+&nbsp;&nbsp;&nbsp;&nbsp; You will never let your ego cause you to think only of yourself. This will not only give you a superficial type of contentment, it’ll also probably damage your team productivity as a whole.
+
 
 **A5:**
+
+&nbsp;&nbsp;&nbsp;&nbsp; The key is "practice", once you’ve solved a problem, you can, at best, iterate on that solution to improve it. That’s an important step, but to really expand your knowledge, you need to regularly find new challenges.
+
+(Ref: [Great Software Development](https://blog.qualified.io/the-key-to-becoming-a-great-developer-8ce863d10543))
+
