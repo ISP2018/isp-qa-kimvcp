@@ -1,14 +1,15 @@
 # 1) According to the PADs, which are tips for making you and your team work efficiently and also explain why?
 
- - 38. Use stand-up meetings.
+38. Use stand-up meetings.
+	- something
  	
- - 41. Be a mentor.
+41. Be a mentor.
 
- - 42. Give others a chance to solve problems.
+42. Give others a chance to solve problems.
  
- - 43. Share code only when ready.
+43. Share code only when ready.
  
- - 45. Keep others informed.
+45. Keep others informed.
 
 # 2) What is the efficient ways for handling errors? (answer is in clean code book)
 
